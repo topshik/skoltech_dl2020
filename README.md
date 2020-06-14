@@ -3,7 +3,7 @@
 Here one can find my solutions for homework assignments.
 
 ### Week 1
-Numpy implementations of all basic layers
+Numpy implementation of all basic layers
 
 ### Week 2
 Pytorch basics, classification for Tiny ImageNet
