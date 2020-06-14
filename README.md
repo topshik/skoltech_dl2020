@@ -15,4 +15,4 @@ Segmentation; inpainting; super resolution; autoencoder; VAE; GAN
 Transformer for POS tagging; TTS via simplified DurIAN
 
 ### Final project
-Super cool final project can be found in this (repo)[https://github.com/The0nix/dl-project-2020]
+Super cool final project can be found in this [repo](https://github.com/The0nix/dl-project-2020)
